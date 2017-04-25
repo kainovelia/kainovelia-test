@@ -23,6 +23,10 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+*italic*
+
+***Bold and italic***
+
 [Link](url) and ![Image](src)
 ```
 
